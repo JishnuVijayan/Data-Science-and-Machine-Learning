@@ -1,0 +1,18 @@
+Anaconda is a distribution of python.
+This means that it not only include python, but many libraries.
+
+
+On Jupyter press "Shift + Enter" to run a cell and "Alt + Enter" to insert a cell.
+
+Virtual environments allow you to set up virtual installations of python and libraries on your computer.
+You can have multiple versions of python or libraries and easily activate or deactivate these environments.
+There is a virtualenv library for normal python distributions.
+Anaconda has a built-in virtual environment manager.
+
+
+
+NUMPY:
+NumPy is a Lineat Algebra Library for python, the reason it is so important for Data Science with Python is that almost all the libraries in the PyData Ecosystem reply on NumPy as one of their main building block.
+NumPy is also incredibly fast, as it has bindings to C libraries.
+Vectors: 1-D array
+Matrices: 2-D array
