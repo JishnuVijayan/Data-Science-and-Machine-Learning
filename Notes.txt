@@ -26,3 +26,12 @@ it allows for fast analysis and data cleaning and preparation.
 it excels in performance and productivity.
 it also has built-in visualization features.
 it can work with data from a wide variety of sources.
+
+
+
+
+
+MATPLOTLIB:
+Matplotlib is the most popular plotting library for python.
+It gives you control over every aspect of a figure.
+It was designed to have a similar feel to Matlab's graphical plotting.
