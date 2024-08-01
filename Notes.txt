@@ -35,3 +35,10 @@ MATPLOTLIB:
 Matplotlib is the most popular plotting library for python.
 It gives you control over every aspect of a figure.
 It was designed to have a similar feel to Matlab's graphical plotting.
+
+
+
+SEABORN:
+Seaborn is a statistical plotting library.
+It has beautiful default styles
+It also is designed to work very well with pandas dataframe objects.
