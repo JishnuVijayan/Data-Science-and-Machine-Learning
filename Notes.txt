@@ -49,3 +49,7 @@ PLOTY:
 Plotly is an interactive visualization library.
 Cufflinks connects plotly with pandas.
 Before we explore these libraries you'll need to install them.
+Geographical plotting is usually challenging due to the various formats the data can come in.
+We can use plotly for this.
+Matplotlib also has a basemap extension for this.
+
