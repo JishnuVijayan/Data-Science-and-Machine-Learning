@@ -42,3 +42,10 @@ SEABORN:
 Seaborn is a statistical plotting library.
 It has beautiful default styles
 It also is designed to work very well with pandas dataframe objects.
+
+
+
+PLOTY:
+Plotly is an interactive visualization library.
+Cufflinks connects plotly with pandas.
+Before we explore these libraries you'll need to install them.
