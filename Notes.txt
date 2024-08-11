@@ -53,3 +53,28 @@ Geographical plotting is usually challenging due to the various formats the data
 We can use plotly for this.
 Matplotlib also has a basemap extension for this.
 
+
+
+
+MACHINE LEARNING:
+
+SUPERVISED LEARNING:
+supervised learning algorithms are trained using labeled examples, such as an input where the desired output is known.
+
+For example, a segment of text could have a category label such as:
+spam vs legitimate Email
+positive vs negative movie review
+
+Supervised learning is commonly used in applications where historical data predicts likely future events.
+
+
+
+
+
+MODEL EVALUTATION:
+Accuracy is not a good method for model evaluation while the test data is imbalanced. 
+Recall and precision will be better in this situation.
+F1-Score is the combination(harmonic mean) of recall and precesion
+
+Accuracy and recall is not ideal for regression problems.
+RMSE(root mean squared) is generally used.
